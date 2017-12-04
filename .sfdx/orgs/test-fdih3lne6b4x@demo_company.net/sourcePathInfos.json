@@ -1,0 +1,101 @@
+[
+    [
+        "C:\\Users\\marco.valente\\git\\DreamInvest\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\marco.valente\\git\\DreamInvest\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1512382085718,
+            "changeTime": 1512382085748,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\marco.valente\\git\\DreamInvest\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\marco.valente\\git\\DreamInvest\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1512382085720,
+            "changeTime": 1512382085720,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\marco.valente\\git\\DreamInvest\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\marco.valente\\git\\DreamInvest\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1512382094852,
+            "changeTime": 1512382094852,
+            "contentHash": "e06b7379bb8b6b138298025ffea2c8760aff4665"
+        }
+    ],
+    [
+        "C:\\Users\\marco.valente\\git\\DreamInvest\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\marco.valente\\git\\DreamInvest\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1512382076582,
+            "changeTime": 1512382085723,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\marco.valente\\git\\DreamInvest",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\marco.valente\\git\\DreamInvest",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1512382093698,
+            "changeTime": 1512382093698,
+            "contentHash": "c248c0fcf4242beea127470c300f425a242a92af",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\marco.valente\\git\\DreamInvest\\force-app\\main\\default\\permissionsets\\DreamInvest.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\marco.valente\\git\\DreamInvest\\force-app\\main\\default\\permissionsets\\DreamInvest.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 348,
+            "modifiedTime": 1512382094854,
+            "changeTime": 1512382094854,
+            "contentHash": "72337cd82ad265b161bbdb22c871eb97814e1b80"
+        }
+    ],
+    [
+        "C:\\Users\\marco.valente\\git\\DreamInvest\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\marco.valente\\git\\DreamInvest\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1512382094853,
+            "changeTime": 1512382094853,
+            "contentHash": "60680eef6555307b3497314153664b6229838daf"
+        }
+    ]
+]
